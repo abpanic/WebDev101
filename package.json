@@ -1,14 +1,14 @@
 {
-	"name": "web-dev-for-beginners",
+	"name": "web-dev-101",
 	"version": "1.0.0",
-	"description": "Web Dev for Beginners - A Curriculum",
+	"description": "Web Dev 101",
 	"main": "index.js",
 	"scripts": {
 		"convert": "node_modules/.bin/docsify-to-pdf"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/microsoft/Web-Dev-For-Beginners.git"
+		"url": "git+https://github.com/abpanic/WebDev101.git"
 	},
 	"keywords": [
 		"web",
@@ -16,12 +16,12 @@
 		"development",
 		"curriculum"
 	],
-	"author": "Microsoft Cloud Advocates",
+	"author": "Abhilash Panicker",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/microsoft/Web-Dev-For-Beginners/issues"
+		"url": "https://github.com/abpanic/WebDev101/issues"
 	},
-	"homepage": "https://github.com/microsoft/Web-Dev-For-Beginners#readme",
+	"homepage": "https://github.com/abpanic/WebDev101#readme",
 	"devDependencies": {
 		"docsify-to-pdf": "0.0.5"
 	}
