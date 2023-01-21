@@ -12,19 +12,10 @@
 
 # Web Development for Beginners - A Curriculum
 
-Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum which is all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+Following is a self-learn module with 24-lesson curriculum which is all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
 **Hearty thanks to our authors Jen Looper, Chris Noring, Christopher Harrison, Jasmine Greenaway, Yohan Lasorsa, Floor Drees, and sketchnote artist Tomomi Imura!**
 
-### _Are you a student?_
-
-
-Get started with the following resources:
-
-- [Student Hub page](https://docs.microsoft.com/en-gb/learn/student-hub?WT.mc_id=academic-13441-cxa) In this page, you will find beginner resources, Student packs and even ways to get a free cert voucher. This is one page you want to bookmark and check from time to time as we switch out content at least monthly.
-- [Microsoft Student Learn ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-13441-cxa) Join a global community of student ambassadors, this could be your way into Microsoft.
-
-Visit [**Student Hub page**](https://docs.microsoft.com/en-gb/learn/student-hub/?WT.mc_id=academic-13441-cxa) where you will find beginner resources, Student packs and even ways to get a free certificate voucher. This is the page you want to bookmark and check from time to time as we switch out content monthly.
 
 # Getting Started
 
