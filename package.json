@@ -2,7 +2,7 @@
 	"name": "web-dev-101",
 	"version": "1.0.0",
 	"description": "Web Dev 101",
-	"main": "index.js",
+	"main": "./index.js",
 	"scripts": {
 		"convert": "node_modules/.bin/docsify-to-pdf"
 	},
