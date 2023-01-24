@@ -17,15 +17,9 @@ Following is a self-learn module with 24-lesson curriculum which is all about Ja
 
 ## Pedagogy
 
-To be able to troublshoot issues related to RestAPI and other script related issues, it is important to understand the basics before we jump into [![ClientAPI Model](https://img.shields.io/static/v1?logo=D365&label=&message=D365%20API%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)] (https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/reference)
+>To be able to troublshoot issues related to RestAPI and other script related issues, it is important to understand the basics before we jump into [![ClientAPI Model](https://img.shields.io/static/v1?logo=D365&label=&message=D365%20API%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/reference)
 
-We have chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a typing game, a virtual terrarium, a 'green' browser extension, a 'space invaders' type game, and a business-type banking app, and will have also learned the basics of JavaScript, HTML, and CSS along with the modern toolchain of today's web developer.
-
-> 🎓 You can take the first few lessons in this curriculum as a [Learn Path](https://docs.microsoft.com/learn/paths/web-development-101/?WT.mc_id=academic-77807-sagibbon) on Microsoft Learn!
-
-There are starter lessons in JavaScript basics to introduce concepts, paired with a video from the "[Beginners Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/?WT.mc_id=academic-77807-sagibbon)" collection of video tutorials, some of whose authors contributed to this curriculum.
-
-In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12-week cycle.
+Chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a typing game, a virtual terrarium, a 'green' browser extension, a 'space invaders' type game, and a business-type banking app, and will have also learned the basics of JavaScript, HTML, and CSS along with the modern toolchain of today's web developer.
 
 Purposefully avoided introducing JavaScript frameworks to concentrate on the basic skills needed as a web developer before adopting a framework, a good next step to completing this curriculum would be learning about Node.js via another collection of videos: "[Beginner Series to: Node.js](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs/?WT.mc_id=academic-77807-sagibbon)".
 
@@ -41,6 +35,9 @@ Purposefully avoided introducing JavaScript frameworks to concentrate on the bas
 - supplemental reading
 - assignment
 - post-lesson quiz
+
+## Quizes are at:
+https://ashy-river-0debb7803.1.azurestaticapps.net/
 
 > **A note about quizzes**: All quizzes are contained [in this app](https://ashy-river-0debb7803.1.azurestaticapps.net/), for 48 total quizzes of three questions each. They are linked from within the lessons but the quiz app can be run locally; follow the instruction in the `quiz-app` folder. They are gradually being localized.
 
