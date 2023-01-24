@@ -17,7 +17,8 @@ Following is a self-learn module with 24-lesson curriculum which is all about Ja
 
 ## Pedagogy
 
->To be able to troublshoot issues related to RestAPI and other script related issues, it is important to understand the basics before we jump into [![ClientAPI Model](https://img.shields.io/static/v1?logo=D365&label=&message=D365%20API%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/reference)
+>To be able to troublshoot issues related to RestAPI and other script related issues, it is important to understand the basics before we jump into [![ClientAPI Model](https://img.shields.io/badge/Dynamics%20365-0B53CE.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white)](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/reference)
+
 
 Chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a typing game, a virtual terrarium, a 'green' browser extension, a 'space invaders' type game, and a business-type banking app, and will have also learned the basics of JavaScript, HTML, and CSS along with the modern toolchain of today's web developer.
 
