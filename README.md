@@ -1,18 +1,9 @@
-[![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
-
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/abpanic/WebDev101/pulls/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/abpanic/WebDev101/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/abpanic/WebDev101/network/)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/abpanic/WebDev101/stargazers/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c4860d10-b8fa-4ccb-8678-ed91a6c47316/deploy-status)](https://app.netlify.com/sites/webdevtutorials101/deploys)
+[![Case Assist Portal](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/GitHub.com/abpanic/WebDev101)
+[![Case Assist Portal](https://img.shields.io/badge/Case%20Assist%20Portal-Case%20Assist%20Portal-blue)](https://msftcasehandling.azurewebsites.net/Learning)
 
-[![Case Assist Portal](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://msftcasehandling.azurewebsites.net/Learning)
-
-# Web Development Basics for RestfulAPI debugging
+# Web Dev Basics for RestfulAPI debugging
 
 Following is a self-learn module with 24-lesson curriculum which is all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
@@ -69,8 +60,5 @@ Purposefully avoided introducing JavaScript frameworks to concentrate on the bas
 | 23  |         [Banking App](/7-bank-project/solution/README.md)          |                   Methods of Fetching and Using Data                   | How data flows in and out of your app, how to fetch it, store it, and dispose of it                                                 |                                            [Data](/7-bank-project/3-data/README.md)                                            |
 | 24  |         [Banking App](/7-bank-project/solution/README.md)          |                      Concepts of State Management                      | Learn how your app retains state and how to manage it programmatically                                                              |                                [State Management](/7-bank-project/4-state-management/README.md)                                |
 
-## License
-
-This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-
 Starting [C#](./Csharp/Lesson1.md)
+
