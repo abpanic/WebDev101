@@ -69,12 +69,8 @@ Purposefully avoided introducing JavaScript frameworks to concentrate on the bas
 | 23  |         [Banking App](/7-bank-project/solution/README.md)          |                   Methods of Fetching and Using Data                   | How data flows in and out of your app, how to fetch it, store it, and dispose of it                                                 |                                            [Data](/7-bank-project/3-data/README.md)                                            |
 | 24  |         [Banking App](/7-bank-project/solution/README.md)          |                      Concepts of State Management                      | Learn how your app retains state and how to manage it programmatically                                                              |                                [State Management](/7-bank-project/4-state-management/README.md)                                |
 
-## Offline access
-
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine, and then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
-
 ## License
 
 This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
 
-Starting C#(/Csharp/Lesson1.md)
+Starting [C#](./Csharp/Lesson1.md)
