@@ -10,7 +10,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c4860d10-b8fa-4ccb-8678-ed91a6c47316/deploy-status)](https://app.netlify.com/sites/webdevtutorials101/deploys)
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/GitHub.com/abpanic/WebDev101)
 
-[![Case Assist Portal](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Case-Assist-Portal&logoColor=white)](https://msftcasehandling.azurewebsites.net/Learning)
+[![Case Assist Portal](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://msftcasehandling.azurewebsites.net/Learning)
 
 # Web Development Basics for RestfulAPI debugging
 
@@ -76,3 +76,5 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 ## License
 
 This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
+
+Starting C#(/Csharp/Lesson1.md)
