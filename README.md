@@ -76,7 +76,6 @@ To use this curriculum on your own, fork the entire repo and go into the numbere
 | 06  |                        Publish to Azure                         |                        Learn how to publish your project to the cloud☁️                        |                                 [Publish your Web App to Azure](/intro-to-dotnet-web-dev/6-publish/README.md)                                  | 
  
  
-
 ## Help Resources 
 There's a few places you can go for help and more information on the topics covered in this repository.
 ### Documentation
@@ -93,25 +92,8 @@ There's a few places you can go for help and more information on the topics cove
 1. [ASP.NET for Beginners](https://aka.ms/WebLearningSeries-git-aspvids)
 1. [Web APIs for Beginners](https://aka.ms/WebLearningSeries-git-apivids)
 
-## How to leave feedback 
-To leave us feedback on this learning series, please fill out our [survey](https://aka.ms/WebLearningSeries-git-survey) or file an issue in this repository.
- 
-
-## Learn More & Connect with us 
-
-Start a .NET [Learning Path](https://aka.ms/WebLearningSeries-git-MSLearn)
-
-Find a .NET user group & join a .NET events at our [Community Page](https://aka.ms/WebLearningSeries-git-community).
-
-Follow us [@dotnet on Twitter](https://aka.ms/WebLearningSeries-git-twitter)
-
-![.NET Bot](/images/dotnet-bot_jetpack-faceing-right.svg)
-
-
 ## .NET Foundation
-
 .NET Interative Notebooks for C# is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
-
 There are many .NET related projects on GitHub.
 
 - [.NET home repo](https://github.com/Microsoft/dotnet) - links to 100s of .NET projects, from Microsoft and the community.
