@@ -60,5 +60,59 @@ Purposefully avoided introducing JavaScript frameworks to concentrate on the bas
 | 23  |         [Banking App](/7-bank-project/solution/README.md)          |                   Methods of Fetching and Using Data                   | How data flows in and out of your app, how to fetch it, store it, and dispose of it                                                 |                                            [Data](/7-bank-project/3-data/README.md)                                            |
 | 24  |         [Banking App](/7-bank-project/solution/README.md)          |                      Concepts of State Management                      | Learn how your app retains state and how to manage it programmatically                                                              |                                [State Management](/7-bank-project/4-state-management/README.md)                                |
 
-Starting [C#](./Csharp/Lesson1.md)
+-----------
 
+## How-to 
+To use this curriculum on your own, fork the entire repo and go into the numbered folders to access the lessons and projects.
+
+## Lessons 
+|     |                       Lesson Name                       | Learning Objectives                                                                                                                 |                                                         Linked Lesson                                                          | 
+| :-: | :------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: | 
+| 01  |                     Welcome                      |           Introduction to C#, .NET, and web development with .NET           | [Welcome to the Intro to Web Dev with .NET series](/1-welcome) | 
+| 02  |                     C#                      |             A quick runthrough of C# attributes, syntax, and OOP             |                            [C# Crash Course](/2-csharp)                             | 
+| 03  |                     Razor Pages                      |                             Learn about ASP.NET Core, Razor Pages, and build a pizza website 🍕                              |                       [Build a Pizza Website with Razor Pages](/3-razor-pages)                       | 
+| 04  |                        Minimal APIs                         |                         Build a Minimal API backend for your pizza website                          |                                       [Build an HTTP backend with Minimal APIs](/4-minimal-api)                                        | 
+| 05  |                        Blazor                         |                         Learn Blazor and build an interactive Connect Four game                          |                              [Introducing Blazor Web Applications](/5-blazor)                               | 
+| 06  |                        Publish to Azure                         |                        Learn how to publish your project to the cloud☁️                        |                                 [Publish your Web App to Azure](/6-publish)                                  | 
+ 
+ 
+
+## Help Resources 
+There's a few places you can go for help and more information on the topics covered in this repository.
+### Documentation
+1. [C# documentation](https://aka.ms/WebLearningSeries-git-csharpDocs)
+1. [.NET documentation](https://aka.ms/WebLearningSeries-git-dotnetDocs)
+1. [ASP.NET documentation, Razor Pages](https://aka.ms/WebLearningSeries-git-razorDocs)
+1. [ASP.NET documentation, Minimal APIs](https://aka.ms/WebLearningSeries-git-minapiDocs)
+1. [ASP.NET documentation, Blazor](https://aka.ms/WebLearningSeries-git-blazorDocs)
+1. [Azure documentation](https://aka.ms/WebLearningSeries-git-azureDocs)
+
+### Beginner Video Series
+1. [C# for Beginners](https://aka.ms/WebLearningSeries-git-csharpvids)
+1. [.NET for Beginners](https://aka.ms/WebLearningSeries-git-dotnetvids)
+1. [ASP.NET for Beginners](https://aka.ms/WebLearningSeries-git-aspvids)
+1. [Web APIs for Beginners](https://aka.ms/WebLearningSeries-git-apivids)
+
+## How to leave feedback 
+To leave us feedback on this learning series, please fill out our [survey](https://aka.ms/WebLearningSeries-git-survey) or file an issue in this repository.
+ 
+
+## Learn More & Connect with us 
+
+Start a .NET [Learning Path](https://aka.ms/WebLearningSeries-git-MSLearn)
+
+Find a .NET user group & join a .NET events at our [Community Page](https://aka.ms/WebLearningSeries-git-community).
+
+Follow us [@dotnet on Twitter](https://aka.ms/WebLearningSeries-git-twitter)
+
+![.NET Bot](/images/dotnet-bot_jetpack-faceing-right.svg)
+
+
+## .NET Foundation
+
+.NET Interative Notebooks for C# is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
+
+There are many .NET related projects on GitHub.
+
+- [.NET home repo](https://github.com/Microsoft/dotnet) - links to 100s of .NET projects, from Microsoft and the community.
+- [ASP.NET Core home](https://docs.microsoft.com/aspnet/core/) - the best place to start learning about ASP.NET Core.
