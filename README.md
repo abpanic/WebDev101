@@ -68,14 +68,24 @@ To use this curriculum on your own, fork the entire repo and go into the numbere
 ## Lessons 
 |     |                       Lesson Name                       | Learning Objectives                                                                                                                 |                                                         Linked Lesson                                                          | 
 | :-: | :------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: | 
-| 01  |                     Welcome                      |           Introduction to C#, .NET, and web development with .NET           | [Welcome to the Intro to Web Dev with .NET series](/1-welcome) | 
-| 02  |                     C#                      |             A quick runthrough of C# attributes, syntax, and OOP             |                            [C# Crash Course](/2-csharp)                             | 
-| 03  |                     Razor Pages                      |                             Learn about ASP.NET Core, Razor Pages, and build a pizza website 🍕                              |                       [Build a Pizza Website with Razor Pages](/3-razor-pages)                       | 
-| 04  |                        Minimal APIs                         |                         Build a Minimal API backend for your pizza website                          |                                       [Build an HTTP backend with Minimal APIs](/4-minimal-api)                                        | 
-| 05  |                        Blazor                         |                         Learn Blazor and build an interactive Connect Four game                          |                              [Introducing Blazor Web Applications](/5-blazor)                               | 
-| 06  |                        Publish to Azure                         |                        Learn how to publish your project to the cloud☁️                        |                                 [Publish your Web App to Azure](/6-publish)                                  | 
+| 01  |                     Welcome                      |           Introduction to C#, .NET, and web development with .NET           | [Welcome to the Intro to Web Dev with .NET series](/intro-to-dotnet-web-dev/1-welcome/README.md) | 
+| 02  |                     C#                      |             A quick runthrough of C# attributes, syntax, and OOP             |                            [C# Crash Course](/intro-to-dotnet-web-dev/2-csharp/README.md)                             | 
+| 03  |                     Razor Pages                      |                             Learn about ASP.NET Core, Razor Pages, and build a pizza website 🍕                              |                       [Build a Pizza Website with Razor Pages](/intro-to-dotnet-web-dev/3-razor-pages/README.md)                       | 
+| 04  |                        Minimal APIs                         |                         Build a Minimal API backend for your pizza website                          |                                       [Build an HTTP backend with Minimal APIs](/intro-to-dotnet-web-dev/4-minimal-api/README.md)                                        | 
+| 05  |                        Blazor                         |                         Learn Blazor and build an interactive Connect Four game                          |                              [Introducing Blazor Web Applications](/intro-to-dotnet-web-dev/5-blazor/README.md)                               | 
+| 06  |                        Publish to Azure                         |                        Learn how to publish your project to the cloud☁️                        |                                 [Publish your Web App to Azure](/intro-to-dotnet-web-dev/6-publish/README.md)                                  | 
  
+
  
+Finally ,
+
+[D365 WebAPI](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/webapi/samples?view=op-9-1)
+[D365 Developer Guide](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/overview?view=op-9-1)
+
+[Wlakthrough - First Client script](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/walkthrough-write-your-first-client-script)
+
+Plugins
+(https://d365demystified.com/2021/12/31/plugins-development-in-dynamics-365-crm-for-beginners-blog-series/)
 
 ## Help Resources 
 There's a few places you can go for help and more information on the topics covered in this repository.
@@ -93,26 +103,9 @@ There's a few places you can go for help and more information on the topics cove
 1. [ASP.NET for Beginners](https://aka.ms/WebLearningSeries-git-aspvids)
 1. [Web APIs for Beginners](https://aka.ms/WebLearningSeries-git-apivids)
 
-## How to leave feedback 
-To leave us feedback on this learning series, please fill out our [survey](https://aka.ms/WebLearningSeries-git-survey) or file an issue in this repository.
- 
-
-## Learn More & Connect with us 
-
-Start a .NET [Learning Path](https://aka.ms/WebLearningSeries-git-MSLearn)
-
-Find a .NET user group & join a .NET events at our [Community Page](https://aka.ms/WebLearningSeries-git-community).
-
-Follow us [@dotnet on Twitter](https://aka.ms/WebLearningSeries-git-twitter)
-
-![.NET Bot](/images/dotnet-bot_jetpack-faceing-right.svg)
-
-
 ## .NET Foundation
-
 .NET Interative Notebooks for C# is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
-
 There are many .NET related projects on GitHub.
 
 - [.NET home repo](https://github.com/Microsoft/dotnet) - links to 100s of .NET projects, from Microsoft and the community.
-- [ASP.NET Core home](https://docs.microsoft.com/aspnet/core/) - the best place to start learning about ASP.NET Core.
+- [ASP.NET Core home](https://docs.microsoft.com/aspnet/core/) - the best place to start learning about ASP.NET Core.)
