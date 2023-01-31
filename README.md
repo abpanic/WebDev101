@@ -75,7 +75,18 @@ To use this curriculum on your own, fork the entire repo and go into the numbere
 | 05  |                        Blazor                         |                         Learn Blazor and build an interactive Connect Four game                          |                              [Introducing Blazor Web Applications](/intro-to-dotnet-web-dev/5-blazor/README.md)                               | 
 | 06  |                        Publish to Azure                         |                        Learn how to publish your project to the cloud☁️                        |                                 [Publish your Web App to Azure](/intro-to-dotnet-web-dev/6-publish/README.md)                                  | 
  
+
  
+Finally ,
+
+[D365 WebAPI](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/webapi/samples?view=op-9-1)
+[D365 Developer Guide](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/overview?view=op-9-1)
+
+[Wlakthrough - First Client script](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/walkthrough-write-your-first-client-script)
+
+Plugins
+(https://d365demystified.com/2021/12/31/plugins-development-in-dynamics-365-crm-for-beginners-blog-series/)
+
 ## Help Resources 
 There's a few places you can go for help and more information on the topics covered in this repository.
 ### Documentation
@@ -97,4 +108,4 @@ There's a few places you can go for help and more information on the topics cove
 There are many .NET related projects on GitHub.
 
 - [.NET home repo](https://github.com/Microsoft/dotnet) - links to 100s of .NET projects, from Microsoft and the community.
-- [ASP.NET Core home](https://docs.microsoft.com/aspnet/core/) - the best place to start learning about ASP.NET Core.
+- [ASP.NET Core home](https://docs.microsoft.com/aspnet/core/) - the best place to start learning about ASP.NET Core.)
