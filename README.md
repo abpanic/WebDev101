@@ -72,8 +72,7 @@ To use this curriculum on your own, fork the entire repo and go into the numbere
 | 02  |                     C#                      |             A quick runthrough of C# attributes, syntax, and OOP             |                            [C# Crash Course](./intro-to-dotnet-web-dev/2-csharp/README.md)                             | 
 | 03  |                     Razor Pages                      |                             Learn about ASP.NET Core, Razor Pages, and build a pizza website 🍕                              |                       [Build a Pizza Website with Razor Pages](./intro-to-dotnet-web-dev/3-razor-pages/README.md)                       | 
 | 04  |                        Minimal APIs                         |                         Build a Minimal API backend for your pizza website                          |                                       [Build an HTTP backend with Minimal APIs](./intro-to-dotnet-web-dev/4-minimal-api/README.md)                                        | 
-| 05  |                        Blazor                         |                         Learn Blazor and build an interactive Connect Four game                          |                              [Introducing Blazor Web Applications](./intro-to-dotnet-web-dev/5-blazor/README.md)                               | 
-| 06  |                        Publish to Azure                         |                        Learn how to publish your project to the cloud☁️                        |                                 [Publish your Web App to Azure](./intro-to-dotnet-web-dev/6-publish/README.md)                                  | 
+| 06  |                        Restful WebServices                         |                        Learn how to build your own Restful APIs🪛                        |                                 [Build Rest API](./intro-to-dotnet-web-dev/restful-web-services.md)                                  | 
  
 
  
