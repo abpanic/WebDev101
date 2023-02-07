@@ -12,8 +12,8 @@ You can also take a look at this interactive tutorial: https://aka.ms/learn/expr
 
 Make sure you have [Node.js](https://nodejs.org) installed.
 
-1. Git clone this repo [The Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners).
-2. Open your terminal and navigate into the `Web-Dev-For-Beginners/7-bank-project/api` folder
+1. Git clone this repo [The Web-Dev-For-Beginners](https://github.com/abpanic/WebDev101).
+2. Open your terminal and navigate into the `WebDev101/7-bank-project/api` folder
 2. Run `npm install` and wait for the packages to be installed(could take a while depending on the quality of your internet connection).
 3. When the installation is over, run `npm start` and you are good to go.
 

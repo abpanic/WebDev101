@@ -2,7 +2,7 @@
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;
@@ -34,7 +34,7 @@ span.emoji {
   vertical-align: middle;
 }
 .progress {
-  background-color: #ea6f5a;
+  background-color: #c9614f;
   background-color: var(--theme-color, #ea6f5a);
   height: 2px;
   left: 0px;
@@ -138,7 +138,7 @@ li input[type='checkbox'] {
   cursor: pointer;
 }
 .app-nav li ul {
-  background-color: #fff;
+  background-color: #ffffff;
   border: 1px solid #ddd;
   border-bottom-color: #ccc;
   border-radius: 4px;
@@ -360,9 +360,9 @@ body.sticky .sidebar-toggle {
 .markdown-section tr {
   border-top: 1px solid #ccc;
 }
-.markdown-section tr:nth-child(2n) {
+/*.markdown-section tr:nth-child(2n) {
   background-color: #525252;
-}
+}*/
 .markdown-section p.tip {
   background-color: #f8f8f8;
   border-bottom-right-radius: 2px;
