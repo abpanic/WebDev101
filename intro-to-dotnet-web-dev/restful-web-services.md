@@ -111,9 +111,9 @@ The REST architecture is based on a few characteristics which are elaborated bel
 
 1.  **RESTFul Client-Server**
     
-    ![RESTful Web Services](./images/032316_0816_RESTfulWebS3.png "RESTful Web Services")   
+  This is the most fundamental requirement of a REST based architecture. It means that the server will have a RESTful web service which would provide the required functionality to the client. The client send’s a request to the web service on the server. The server would either reject the request or comply and provide an adequate response to the client.
 
-This is the most fundamental requirement of a REST based architecture. It means that the server will have a RESTful web service which would provide the required functionality to the client. The client send’s a request to the web service on the server. The server would either reject the request or comply and provide an adequate response to the client.
+    ![RESTful Web Services](./images/032316_0816_RESTfulWebS3.png "RESTful Web Services")   
 
 2.  **Stateless**
 
