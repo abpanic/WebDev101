@@ -1,6 +1,6 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/abpanic/WebDev101/pulls/)
 [![Case Assist Portal](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/GitHub.com/abpanic/WebDev101)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://github.dev/abpanic/WebDev101)
 [![Case Assist Portal](https://img.shields.io/badge/Case%20Assist%20Portal-Case%20Assist%20Portal-blue)](https://msftcasehandling.azurewebsites.net/Learning)
 
 # Web Dev Basics for RestfulAPI debugging
