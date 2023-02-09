@@ -61,7 +61,7 @@ Purposefully avoided introducing JavaScript frameworks to concentrate on the bas
 | 24  |         [Banking App](/7-bank-project/solution/README.md)          |                      Concepts of State Management                      | Learn how your app retains state and how to manage it programmatically                                                              |                                [State Management](/7-bank-project/4-state-management/README.md)                                |
 | 25  |         [Client Script in CE](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/walkthrough-write-your-first-client-script)          |                      Getting started with D365 CE scripting                      | Create your 1st Client script in D365 CE                                       |                                [Walkthrough](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/walkthrough-write-your-first-client-script)                                |
 
------------
+------------------------------------------
 
 ## Web Dev 101 with .Net
 To use this curriculum on your own, fork the entire repo and go into the numbered folders to access the lessons and projects.
