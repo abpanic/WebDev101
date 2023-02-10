@@ -3,6 +3,8 @@
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://vscode.dev/github/abpanic/WebDev101)
 [![Case Assist Portal](https://img.shields.io/badge/Case%20Assist%20Portal-Case%20Assist%20Portal-blue)](https://msftcasehandling.azurewebsites.net/Learning)
 
+Compiled by [Abhilash Panicker](https://dbugr.netlify.app/)
+
 # Web Dev Basics for RestfulAPI debugging
 
 Following is a self-learn module with 24-lesson curriculum which is all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
