@@ -3,7 +3,7 @@
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://vscode.dev/github/abpanic/WebDev101)
 [![Case Assist Portal](https://img.shields.io/badge/Case%20Assist%20Portal-Case%20Assist%20Portal-blue)](https://msftcasehandling.azurewebsites.net/Learning)
 
-Compiled by [Abhilash Panicker](https://dbugr.netlify.app/)
+Compiled by [Abhilash Panicker](https://dbugr.vercel.app/)
 
 # Web Dev Basics for RestfulAPI debugging
 
