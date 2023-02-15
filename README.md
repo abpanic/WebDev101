@@ -65,7 +65,7 @@ Purposefully avoided introducing JavaScript frameworks to concentrate on the bas
 
 ------------------------------------------
 
-## Microsoft D365 CE Plugins starting with 
+## Microsoft D365 CE Plugins starting with C# and API basics
 To use this curriculum on your own, fork the entire repo and go into the numbered folders to access the lessons and projects.
 
 ## Lessons 
