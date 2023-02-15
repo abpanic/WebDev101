@@ -65,7 +65,7 @@ Purposefully avoided introducing JavaScript frameworks to concentrate on the bas
 
 ------------------------------------------
 
-## Web Dev 101 with .Net
+## Microsoft D365 CE Plugins starting with 
 To use this curriculum on your own, fork the entire repo and go into the numbered folders to access the lessons and projects.
 
 ## Lessons 
@@ -73,9 +73,12 @@ To use this curriculum on your own, fork the entire repo and go into the numbere
 | :-: | :------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: | 
 | 01  |      Welcome           |     Introduction to C#, .NET, and web development with .NET      | [Welcome to the Intro to Web Dev with .NET series](./intro-to-dotnet-web-dev/1-welcome/README.md) | 
 | 02  |      C#        |             A quick runthrough of C# attributes, syntax, and OOP             |                            [C# Crash Course](./intro-to-dotnet-web-dev/2-csharp/README.md)                             | 
-| 03  |                     Razor Pages                      |                             Learn about ASP.NET Core, Razor Pages, and build a pizza website 🍕                              |                       [Build a Pizza Website with Razor Pages](./intro-to-dotnet-web-dev/3-razor-pages/README.md)                       | 
-| 04  |                        Controller-based Web APIs                         |                         Build a Minimal API backend for To-do website                          |                                       [Build an HTTP backend with Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio-code)                                        | 
-| 06  |                        Restful WebServices                         |                        Learn how to build your own Restful APIs🪛                        |                                 [Build Rest API](./intro-to-dotnet-web-dev/restful-web-services.md)                                  | 
+| 03  |                        Controller-based Web APIs                         |                         Build a Minimal API backend for To-do website                          |                                       [Build an HTTP backend with Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio-code)                                        |
+| 04 | Download Developer Tools | Environment set-up with required tools | [Install Power Platform Tools](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/tools/devtools-install?view=op-9-1) |
+| 05 | Getting Started with Plugins | Get Introduced to Plugins and the need for custom logic| [Plugins](./Sandbox-Plugins/Plugins.md)|
+| 06 | Event Framework officiallyOfficial Documentation | Understand the Event Framework for execution from official documentation | [Event framework](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/event-framework) |
+| 07 | Plugin Registration | Registering your First Plugin | [Plugin_Registration](./Sandbox-Plugins/Plugin Registration.md)|
+
  
 
  
@@ -85,16 +88,13 @@ Finally ,
 
 | Learning Objectives |Linked Lesson |
 |----------------------|------------| 
-| Workflow |  [Microsoft CRM - Workflow Processes](./microsoft_crm_workflow_processes.md) |
-| Plugins  |  [Microsoft CRM - Plugins](./Sandbox-Plugins/Plugins.md) |
-| Plugin Registration |  [Microsoft CRM - Plugin Registration](./Sandbox-Plugins/Plugin Registration.md) |
-| Web Services |  [Microsoft CRM - Web Services](./microsoft_crm_web_services.md) |
-| Solutions |  [Microsoft CRM - Solutions](./microsoft_crm_solutions.md) |
+| Workflow |  [Workflow Processes](./microsoft_crm_workflow_processes.md) |
+| Web Services |  [Web Services](./microsoft_crm_web_services.md) |
+| Solutions |  [Solutions](./microsoft_crm_solutions.md) |
 
 [D365 WebAPI](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/webapi/samples?view=op-9-1)
 [D365 Developer Guide](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/overview?view=op-9-1)
 
-[Wlakthrough - First Client script](https://learn.microsoft.com/en-us/power-apps/developer/model-driven-apps/clientapi/walkthrough-write-your-first-client-script)
 
 Plugins
 (https://d365demystified.com/2021/12/31/plugins-development-in-dynamics-365-crm-for-beginners-blog-series/)
