@@ -81,6 +81,16 @@ To use this curriculum on your own, fork the entire repo and go into the numbere
  
 Finally ,
 
+*   D365 SDK Tutorial
+
+| Learning Objectives |Linked Lesson |
+|----------------------|------------| 
+| Workflow |  [Microsoft CRM - Workflow Processes](./microsoft_crm_workflow_processes.md) |
+| Plugins  |  [Microsoft CRM - Plugins](./Sandbox-Plugins/Plugins.md) |
+| Plugin Registration |  [Microsoft CRM - Plugin Registration](./Sandbox-Plugins/Plugin Registration.md) |
+| Web Services |  [Microsoft CRM - Web Services](./microsoft_crm_web_services.md) |
+| Solutions |  [Microsoft CRM - Solutions](./microsoft_crm_solutions.md) |
+
 [D365 WebAPI](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/webapi/samples?view=op-9-1)
 [D365 Developer Guide](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/overview?view=op-9-1)
 
@@ -89,25 +99,12 @@ Finally ,
 Plugins
 (https://d365demystified.com/2021/12/31/plugins-development-in-dynamics-365-crm-for-beginners-blog-series/)
 
-## Help Resources 
-There's a few places you can go for help and more information on the topics covered in this repository.
-### Documentation
-1. [C# documentation](https://aka.ms/WebLearningSeries-git-csharpDocs)
-1. [.NET documentation](https://aka.ms/WebLearningSeries-git-dotnetDocs)
-1. [ASP.NET documentation, Razor Pages](https://aka.ms/WebLearningSeries-git-razorDocs)
-1. [ASP.NET documentation, Minimal APIs](https://aka.ms/WebLearningSeries-git-minapiDocs)
-1. [ASP.NET documentation, Blazor](https://aka.ms/WebLearningSeries-git-blazorDocs)
-1. [Azure documentation](https://aka.ms/WebLearningSeries-git-azureDocs)
 
 ### Beginner Video Series
 1. [C# for Beginners](https://aka.ms/WebLearningSeries-git-csharpvids)
 1. [.NET for Beginners](https://aka.ms/WebLearningSeries-git-dotnetvids)
 1. [ASP.NET for Beginners](https://aka.ms/WebLearningSeries-git-aspvids)
 1. [Web APIs for Beginners](https://aka.ms/WebLearningSeries-git-apivids)
-
-## .NET Foundation
-.NET Interative Notebooks for C# is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
-There are many .NET related projects on GitHub.
 
 - [.NET home repo](https://github.com/Microsoft/dotnet) - links to 100s of .NET projects, from Microsoft and the community.
 - [ASP.NET Core home](https://docs.microsoft.com/aspnet/core/) - the best place to start learning about ASP.NET Core.)
