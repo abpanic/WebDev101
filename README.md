@@ -77,13 +77,12 @@ To use this curriculum on your own, fork the entire repo and go into the numbere
 | 04 | Download Developer Tools | Environment set-up with required tools | [Install Power Platform Tools](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/tools/devtools-install?view=op-9-1) |
 | 05 | Getting Started with Plugins | Get Introduced to Plugins and the need for custom logic| [Plugins](./Sandbox-Plugins/Plugins.md)|
 | 06 | Event Framework officiallyOfficial Documentation | Understand the Event Framework for execution from official documentation | [Event framework](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/event-framework) |
-| 07 | Plugin Registration | Registering your First Plugin | [Plugin_Registration](./Sandbox-Plugins/Plugin%20Registration.md |
-| 08 | Web Services | Introducing to IDiscovery and IOrganization Interfaces |  [Web_Services](./Sandbox-Plugins/Web%20Services.md |
+| 07 | Plugin Registration | Registering your First Plugin | [Plugin_Registration](./Sandbox-Plugins/Plugin%20Registration.md) |
+| 08 | Web Services | Introducing to IDiscovery and IOrganization Interfaces |  [Web_Services](./Sandbox-Plugins/Web%20Services.md) |
 
  
 Official Documentation:
 [D365 Developer Guide](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/overview?view=op-9-1)
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/abpanic/WebDev101" data-color-scheme="no-preference: dark_dimmed; light: dark_dimmed; dark: dark_dimmed;" data-icon="octicon-star" aria-label="Star abpanic/WebDev101 on GitHub">Star</a>
+All feedback to [Abhilash Panicker](https://dbugr.vercel.app/)
 
