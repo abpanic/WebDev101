@@ -5,7 +5,7 @@
 
 Compiled by [Abhilash Panicker](https://dbugr.vercel.app/)
 
-# Web Dev Basics for RestfulAPI debugging
+# Web Dev Basics for Rest API and WebServices debugging
 
 Following is a self-learn module with 24-lesson curriculum which is all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
