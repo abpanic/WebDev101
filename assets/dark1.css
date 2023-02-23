@@ -62,7 +62,7 @@ body {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #4f4f4f;
+  color: #c8c8c822;
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 0;
@@ -695,7 +695,7 @@ body {
 .markdown-section code {
   background-color: #282828;
   border-radius: 2px;
-  color: #eef0eb;
+  color: #657b83;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   margin: 0 2px;
   padding: 3px 5px;
@@ -721,7 +721,7 @@ body {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #eef0eb;
+  color: #8e908c;
 }
 .token.namespace {
   opacity: 0.7;
