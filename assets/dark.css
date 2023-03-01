@@ -2,7 +2,7 @@
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
-  -webkit-tap-highlight-color: #4f4f4f;
+  -webkit-tap-highlight-color: rgba(16, 46, 67, 0.304);
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;
@@ -62,7 +62,7 @@ body {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #4f4f4f;
+  color: #c8c8c822;
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 0;
@@ -138,7 +138,7 @@ li input[type='checkbox'] {
   cursor: pointer;
 }
 .app-nav li ul {
-  background-color: #4f4f4f;
+  background-color: #ffffff;
   border: 1px solid #ddd;
   border-bottom-color: #ccc;
   border-radius: 4px;
@@ -207,13 +207,13 @@ main.hidden {
   transition: all 0.3s;
 }
 .anchor span {
-  color: #FFFFFF;
+  color: #c8c8c8;
 }
 .anchor:hover {
   text-decoration: underline;
 }
 .sidebar {
-  border-right: 1px solid #4f4f4f;
+  border-right: 1px solid rgba(0, 0, 0, 0.07);
   overflow-y: auto;
   padding: 40px 0 0;
   position: absolute;
@@ -272,14 +272,14 @@ main.hidden {
   border-radius: 4px;
 }
 .sidebar:hover::-webkit-scrollbar-thumb {
-  background: #4f4f4f;
+  background: rgba(136,136,136,0.4);
 }
 .sidebar:hover::-webkit-scrollbar-track {
-  background: #4f4f4f;
+  background: rgba(136,136,136,0.1);
 }
 .sidebar-toggle {
   background-color: transparent;
-  background-color: #4f4f4f;
+  background-color: #282828;
   border: 0;
   outline: none;
   padding: 10px;
@@ -375,7 +375,7 @@ body.sticky .sidebar-toggle {
 .markdown-section p.tip:before {
   background-color: #f66;
   border-radius: 100%;
-  color: #FFFFFF;
+  color: #3f3f3f;
   content: '!';
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 14px;
@@ -392,7 +392,7 @@ body.sticky .sidebar-toggle {
   background-color: #efefef;
 }
 .markdown-section p.tip em {
-  color: #FFFFFF;
+  color: #c8c8c8;
 }
 .markdown-section p.warn {
   background: rgba(234,111,90,0.1);
@@ -575,7 +575,7 @@ section.cover .cover-main > p:last-child a {
 section.cover .cover-main > p:last-child a:last-child {
   background-color: #ea6f5a;
   background-color: var(--theme-color, #ea6f5a);
-  color: #FFFFFF;
+  color: #fff;
 }
 section.cover .cover-main > p:last-child a:last-child:hover {
   color: inherit;
@@ -599,13 +599,13 @@ body {
 /* sidebar */
 .sidebar {
   background-color: #282828;
-  color: #FFFFFF;
+  color: #c8c8c8;
 }
 .sidebar li {
   margin: 6px 15px 6px 0;
 }
 .sidebar ul li a {
-  color: #FFFFFF;
+  color: #c8c8c8;
   font-size: 14px;
   overflow: hidden;
   text-decoration: none;
@@ -656,7 +656,7 @@ body {
   font-size: 1rem;
 }
 .markdown-section h6 {
-  color: #FFFFFF;
+  color: #777;
   font-size: 1rem;
 }
 .markdown-section figure,
@@ -678,7 +678,7 @@ body {
 .markdown-section blockquote {
   border-left: 4px solid #ea6f5a;
   border-left: 4px solid var(--theme-color, #ea6f5a);
-  color: #FFFFFF;
+  color: #858585;
   margin: 2em 0;
   padding-left: 20px;
 }
@@ -690,12 +690,12 @@ body {
   margin: 1em 0;
 }
 .markdown-section em {
-  color: #FFFFFF;
+  color: #7f8c8d;
 }
 .markdown-section code {
   background-color: #282828;
   border-radius: 2px;
-  color: #FFFFFF;
+  color: #657b83;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   margin: 0 2px;
   padding: 3px 5px;
@@ -721,7 +721,7 @@ body {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #eef0eb;
+  color: #8e908c;
 }
 .token.namespace {
   opacity: 0.7;
@@ -799,7 +799,7 @@ body {
   -webkit-font-smoothing: initial;
   background-color: #282828;
   border-radius: 2px;
-  color: #FFFFFF;
+  color: #657b83;
   display: block;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   font-size: 0.8rem;
@@ -835,11 +835,11 @@ pre::after {
   top: 0;
 }
 .markdown-section p.tip {
-  background-color: #4f4f4f;
-  color: #FFFFFF;
+  background-color: #282828;
+  color: #ffffff;
 }
 input[type='search'] {
   background: #4f4f4f;
   border-color: #4f4f4f;
-  color: #FFFFFF;
+  color: #ffffff;
 }
