@@ -86,4 +86,4 @@ You can click the activity to see the details that we had set in the code.
 
 This confirms that our plugin ran successfully. Similarly, you can extend your plugins to achieve highly complex functionalities.
 
-[Previous Page](./Plugins.md)  [Next Page](https://www.tutorialspoint.com/microsoft_crm/microsoft_crm_web_services.htm) 
+[Previous Page](./Plugins.md)  [Next Page](./Web%20Services.md) 

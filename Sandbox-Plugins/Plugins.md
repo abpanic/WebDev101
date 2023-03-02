@@ -1,15 +1,7 @@
- [![Dynamics 365](./Plugins/D354%20CE.png)] 
-
-
-
-
+ ![Dynamics 365](./Plugins/D354%20CE.png)
 
 Microsoft Dynamics CRM - Plugins
 ================================
-
-[Previous Page](./microsoft_crm_workflow_processes.md)
-
-[Next Page](./microsoft_crm_plugin_registration.md)  
 
 A plug-in is a custom business logic that integrates with Microsoft Dynamics CRM to modify or extend the standard behavior of the platform. Plug-ins act as event handlers and are registered to execute on a particular event in CRM. Plugins are written in either C# or VB and can run either in synchronous or asynchronous mode.
 
@@ -224,4 +216,4 @@ throw new InvalidPluginExecutionException(ex.Message);
 
 Plugins are definitely crucial to any custom CRM implementation. In this chapter, we focused on understanding the event framework model, pipeline stages, messages, and writing a sample plugin. In the next chapter, we will register this plugin in CRM and see it working from end-to-end scenario.
 
-[Next Page](./microsoft_crm_plugin_registration.md)
+[Next Page](./Plugin%20Registration.md)  
