@@ -13,7 +13,8 @@
 - :cloud: Serve locally using [DocsifyJS](https://docsify.js.org/)
 - :cloud: Serve locally and on GitHub Pages / Netlify
 
-[Get Started with Web Dev Basics](https://webdevtutorials101.netlify.app/#/?id=web-dev-basics-for-rest-api-and-webservices-debugging)
-[Start with C# and Plugins](https://webdevtutorials101.netlify.app/#/?id=microsoft-d365-ce-plugins-starting-with-c-and-api-basics)
+[WebServices and RestAPI](https://webdevtutorials101.netlify.app/#/?id=web-dev-basics-for-rest-api-and-webservices-debugging)
+[C# and Plugins](https://webdevtutorials101.netlify.app/#/?id=microsoft-d365-ce-plugins-starting-with-c-and-api-basics)
+
 
 ![color](#eeefef)
